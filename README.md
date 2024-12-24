@@ -1,8 +1,9 @@
 # AI-Resume-Builder
 
-#initial Set up
+# Initial Set up
 ```
  npx create-next-app@latest
+```
 Need to install the following packages:
 create-next-app@15.1.2
 Ok to proceed? (y) y
@@ -15,4 +16,4 @@ Ok to proceed? (y) y
 ✔ Would you like to use App Router? (recommended) … No / Yes
 ✔ Would you like to use Turbopack for `next dev`? … No / Yes
 ✔ Would you like to customize the import alias (`@/*` by default)? … No / Yes
-```
+
